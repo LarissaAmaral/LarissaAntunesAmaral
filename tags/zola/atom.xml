@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <title>Larissa Antunes Amaral - zola</title>
+    <subtitle>Projects, Research, Data analysis and more</subtitle>
+    <link href="https://larissaamaral.github.io/LarissaAntunesAmaral/tags/zola/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://larissaamaral.github.io/LarissaAntunesAmaral/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2022-11-01T00:00:00-05:00</updated>
+    <id>https://larissaamaral.github.io/LarissaAntunesAmaral/tags/zola/atom.xml</id>
+    <entry xml:lang="es">
+        <title>Refine the search for ELMs progenitors</title>
+        <published>2022-11-01T00:00:00-05:00</published>
+        <updated>2022-11-01T00:00:00-05:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://larissaamaral.github.io/LarissaAntunesAmaral/projects/elm-progenitors/" type="text/html"/>
+        <id>https://larissaamaral.github.io/LarissaAntunesAmaral/projects/elm-progenitors/</id>
+        
+        <summary type="html">&lt;p&gt;This research project proposes a refined search for ELM progenitors.
+Building on the foundational work of Nelemans+01 and exploring the potential role of recently-detached cataclysmic variables (CVs) in ELM progenitor scenarios (Sun &amp;amp; Arras 2018), the study places the investigation of detached ELMs within the broader context of ultracompact binaries, thermonuclear supernovae, and their relevance to LISA signals.
+Recent advancements, notably the ZTF survey conducted by El-Badry et al. in 2021, have significantly expanded our knowledge of evolved CV populations, providing a valuable resource for improving the understanding of compact binary systems.
+To advance this exploration, the project proposes a refined search for ELM progenitors. This involves a cross-match between Gaia and existing TESS satellite light curves, with the goal of enhancing observational input and contributing to a more comprehensive understanding of the compact binary population.
+Motivated by a deep curiosity about the universe&#x27;s intricacies, the project team is committed to leveraging observational techniques and available data to unravel the mysteries behind ELMs, ultimately advancing our understanding of the cosmos.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="es">
+        <title>Search for new hot DAVs stars</title>
+        <published>2019-08-14T00:00:00-05:00</published>
+        <updated>2019-08-14T00:00:00-05:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://larissaamaral.github.io/LarissaAntunesAmaral/projects/ataraxia-zola/" type="text/html"/>
+        <id>https://larissaamaral.github.io/LarissaAntunesAmaral/projects/ataraxia-zola/</id>
+        
+        <summary type="html">&lt;p&gt;The aim of this project is to search for pulsating white dwarfs with hydrogen atmosphere at
+hotter temperatures, i.e. 30 000 K. The pulsation in those stars were proposed by Shibahashi
+(2005, 2007) and for the first time observed by Kurtz et al. 2008. Later on, Romero et al.
+2020 confirmed the existence of the new pulsating class of hot DA white dwarf stars.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="es">
+        <title>Evolutionary and asteroseimological study of variable white dwarf stars and its applications</title>
+        <published>2016-08-14T00:00:00-05:00</published>
+        <updated>2016-08-14T00:00:00-05:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://larissaamaral.github.io/LarissaAntunesAmaral/projects/asteroseimology/" type="text/html"/>
+        <id>https://larissaamaral.github.io/LarissaAntunesAmaral/projects/asteroseimology/</id>
+        
+        <summary type="html">&lt;p&gt;The aim of this project was to conduct a study of the evolutionary properties of white dwarf
+stars and DA-type pulsating white dwarf stars, called ZZ Ceti, based on a grid of detailed
+evolutionary models of these compact objects.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

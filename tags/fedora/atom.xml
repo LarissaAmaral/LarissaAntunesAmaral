@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <title>Larissa Antunes Amaral - fedora</title>
+    <subtitle>Projects, Research, Data analysis and more</subtitle>
+    <link href="https://larissaamaral.github.io/LarissaAntunesAmaral/tags/fedora/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://larissaamaral.github.io/LarissaAntunesAmaral/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2019-04-01T23:21:00-05:00</updated>
+    <id>https://larissaamaral.github.io/LarissaAntunesAmaral/tags/fedora/atom.xml</id>
+    <entry xml:lang="es">
+        <title> White dwarf and subdwarf stars in the Sloan Digital Sky Survey Data Release 14 </title>
+        <published>2019-04-01T23:21:00-05:00</published>
+        <updated>2019-04-01T23:21:00-05:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://larissaamaral.github.io/LarissaAntunesAmaral/blog/2023/que-hacer-despues-de-instalar-fedora-36/" type="text/html"/>
+        <id>https://larissaamaral.github.io/LarissaAntunesAmaral/blog/2023/que-hacer-despues-de-instalar-fedora-36/</id>
+        
+        <summary type="html">&lt;p&gt;`White dwarfs carry information on the structure and evolution of the Galaxy, especially through their luminosity function and initial-to-final mass relation. Very cool white dwarfs provide insight into the early ages of each population. Examining the spectra of all stars with 3σ proper motion in the Sloan Digital Sky Survey Data Release 14, we report the classification for 20 088 spectroscopically confirmed white dwarfs, plus 415 hot subdwarfs, and 311 cataclysmic variables. We obtain Teff, log g, and mass for hydrogen atmosphere white dwarf stars (DAs), warm helium atmosphere white dwarfs (DBs), hot subdwarfs (sdBs and sdOs), and estimate photometric Teff for white dwarf stars with continuum spectra (DCs). We find 15 793 sdAs and 447 dCs between the white dwarf cooling sequence and the main sequence, especially below T_eff∼eq 10 000 K; most are likely low-mass metal-poor main-sequence stars, but some could be the result of interacting binary evolution. &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;1904.01626.pdf&quot;&gt;Read it complete here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

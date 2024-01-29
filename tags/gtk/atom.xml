@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <title>Larissa Antunes Amaral - gtk</title>
+    <subtitle>Projects, Research, Data analysis and more</subtitle>
+    <link href="https://larissaamaral.github.io/LarissaAntunesAmaral/tags/gtk/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://larissaamaral.github.io/LarissaAntunesAmaral/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2020-01-05T00:00:00-05:00</updated>
+    <id>https://larissaamaral.github.io/LarissaAntunesAmaral/tags/gtk/atom.xml</id>
+    <entry xml:lang="es">
+        <title>Variability of Extremely-low mass white dwarf stars</title>
+        <published>2020-01-05T00:00:00-05:00</published>
+        <updated>2020-01-05T00:00:00-05:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://larissaamaral.github.io/LarissaAntunesAmaral/projects/glib-gtk-libro/" type="text/html"/>
+        <id>https://larissaamaral.github.io/LarissaAntunesAmaral/projects/glib-gtk-libro/</id>
+        
+        <summary type="html">&lt;p&gt;The aim of this project is to search for new pulsating Extremely-low mass white dwarf stars
+(ELMs) to explore the internal structure of WDs at cooler temperatures and much lower
+masses.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

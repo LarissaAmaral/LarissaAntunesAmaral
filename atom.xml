@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <title>Larissa Antunes Amaral</title>
+    <subtitle>Projects, Research, Data analysis and more</subtitle>
+    <link href="https://larissaamaral.github.io/LarissaAntunesAmaral/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://larissaamaral.github.io/LarissaAntunesAmaral/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-11-02T23:21:00-05:00</updated>
+    <id>https://larissaamaral.github.io/LarissaAntunesAmaral/atom.xml</id>
+    <entry xml:lang="es">
+        <title>  TIC 378898110: A bright, short-period AM CVn binary in TESS  </title>
+        <published>2023-11-02T23:21:00-05:00</published>
+        <updated>2023-11-02T23:21:00-05:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://larissaamaral.github.io/LarissaAntunesAmaral/blog/2022/tic-378898110-a-bright-short-period-am-cvn-binary-in-tess/" type="text/html"/>
+        <id>https://larissaamaral.github.io/LarissaAntunesAmaral/blog/2022/tic-378898110-a-bright-short-period-am-cvn-binary-in-tess/</id>
+        
+        <summary type="html">&lt;p&gt;AM CVn-type systems are ultracompact, helium-accreting binary systems that are evolutionarily linked to the progenitors of thermonuclear supernovae and are expected to be strong Galactic sources of gravitational waves detectable to upcoming space-based interferometers. AM CVn binaries with orbital periods ≲20-23 min exist in a constant high state with a permanently ionized accretion disc. We present the discovery of TIC 378898110, a bright (G = 14.3 mag), nearby (309.3 ± 1.8 pc), high-state AM CVn binary discovered in TESS two-minute-cadence photometry. At optical wavelengths, this is the third-brightest AM CVn binary known. The photometry of the system shows a 23.07172(6) min periodicity, which is likely to be the &#x27;superhump&#x27; period and implies an orbital period in the range 22-23 min. There is no detectable spectroscopic variability. The system underwent an unusual, year-long brightening event during which the dominant photometric period changed to a shorter period (constrained to 20.5 ± 2.0 min), which we suggest may be evidence for the onset of disc-edge eclipses. The estimated mass transfer rate, log(M˙&#x2F;M⊙yr−1)=−6.8±1.0, is unusually high and may suggest a high-mass or thermally inflated donor. The binary is detected as an X-ray source, with a flux of 9.2+4.2−1.8×10−13 erg cm-2 s-1 in the 0.3-10 keV range. TIC 378898110 is the shortest-period binary system discovered with TESS, and its large predicted gravitational-wave amplitude makes it a compelling verification binary for future space-based gravitational wave detectors.  &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2311.01255.pdf&quot;&gt;Read it complete here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="es">
+        <title>  V838 Mon: A slow waking up of Sleeping Beauty?  </title>
+        <published>2022-11-12T23:21:00-05:00</published>
+        <updated>2022-11-12T23:21:00-05:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://larissaamaral.github.io/LarissaAntunesAmaral/blog/2022/v838-mon-a-slow-waking-up-of-sleeping-beauty/" type="text/html"/>
+        <id>https://larissaamaral.github.io/LarissaAntunesAmaral/blog/2022/v838-mon-a-slow-waking-up-of-sleeping-beauty/</id>
+        
+        <summary type="html">&lt;p&gt;V838 Monocerotis is a peculiar binary that underwent an immense stellar explosion in 2002, leaving behind an expanding cool supergiant and a hot B3V companion. Five years after the outburst, the B3V companion disappeared from view, and has not returned to its original state.
+We investigate the changes in the light curve and spectral features to explain the behaviour of V838 Mon during the current long-lasting minimum.
+A monitoring campaign has been performed over the past 13 years with the Nordic Optical Telescope to obtain optical photometric and spectroscopic data. The datasets are used to analyse the temporal evolution of the spectral features and the spectral energy distribution, and to characterise the object.
+Our photometric data show a steady brightening in all bands over the past 13 years, which is particularly prominent in the blue. This rise is also reflected in the spectra, showing a gradual relative increase in the continuum flux at shorter wavelengths. In addition, a slow brightening of the Hα emission line starting in 2015 was detected. These changes might imply that the B3V companion is slowly reappearing. During the same time interval, our analysis reveals a considerable change in the observed colours of the object along with a steady decrease in the strength and width of molecular absorption bands in our low-resolution spectra. These changes suggest a rising temperature of the cool supergiant along with a weakening of its wind, most likely combined with a slow recovery of the secondary due to the evaporation of the dust and accretion of the material from the shell in which the hot companion is embedded. From our medium-resolution spectra, we find that the heliocentric radial velocity of the atomic absorption line of Ti I 6556.06 Å has been stable for more than a decade. We propose that Ti I lines are tracing the velocity of the red supergiant in V838 Mon, and do not represent the infalling matter as previously stated.  &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.aanda.org&#x2F;articles&#x2F;aa&#x2F;pdf&#x2F;2023&#x2F;02&#x2F;aa42959-21.pdf&quot;&gt;Read it complete here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="es">
+        <title>Refine the search for ELMs progenitors</title>
+        <published>2022-11-01T00:00:00-05:00</published>
+        <updated>2022-11-01T00:00:00-05:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://larissaamaral.github.io/LarissaAntunesAmaral/projects/elm-progenitors/" type="text/html"/>
+        <id>https://larissaamaral.github.io/LarissaAntunesAmaral/projects/elm-progenitors/</id>
+        
+        <summary type="html">&lt;p&gt;This research project proposes a refined search for ELM progenitors.
+Building on the foundational work of Nelemans+01 and exploring the potential role of recently-detached cataclysmic variables (CVs) in ELM progenitor scenarios (Sun &amp;amp; Arras 2018), the study places the investigation of detached ELMs within the broader context of ultracompact binaries, thermonuclear supernovae, and their relevance to LISA signals.
+Recent advancements, notably the ZTF survey conducted by El-Badry et al. in 2021, have significantly expanded our knowledge of evolved CV populations, providing a valuable resource for improving the understanding of compact binary systems.
+To advance this exploration, the project proposes a refined search for ELM progenitors. This involves a cross-match between Gaia and existing TESS satellite light curves, with the goal of enhancing observational input and contributing to a more comprehensive understanding of the compact binary population.
+Motivated by a deep curiosity about the universe&#x27;s intricacies, the project team is committed to leveraging observational techniques and available data to unravel the mysteries behind ELMs, ultimately advancing our understanding of the cosmos.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="es">
+        <title> Discovery of 74 new bright ZZ Ceti stars in the first three years of TESS </title>
+        <published>2022-01-11T23:21:00-05:00</published>
+        <updated>2022-01-11T23:21:00-05:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://larissaamaral.github.io/LarissaAntunesAmaral/blog/2022/discovery-of-74-new-bright-zz-ceti-stars-in-the-first-three-years-of-tess/" type="text/html"/>
+        <id>https://larissaamaral.github.io/LarissaAntunesAmaral/blog/2022/discovery-of-74-new-bright-zz-ceti-stars-in-the-first-three-years-of-tess/</id>
+        
+        <summary type="html">&lt;p&gt;We report the discovery of 74 new pulsating DA white dwarf stars, or ZZ Cetis, from the data obtained by the Transiting Exoplanet Survey Satellite mission, from Sectors 1 to 39, corresponding to the first 3 cycles. This includes objects from the Southern hemisphere (Sectors 1-13 and 27-39) and the Northern hemisphere (Sectors 14-26), observed with 120 s- and 20 s-cadence. Our sample likely includes 13 low-mass and one extremely low-mass white dwarf candidate, considering the mass determinations from fitting Gaia magnitudes and parallax. In addition, we present follow-up time series photometry from ground-based telescopes for 11 objects, which allowed us to detect a larger number of periods. For each object, we analysed the period spectra and performed an asteroseismological analysis, and we estimate the structure parameters of the sample, i.e. stellar mass, effective temperature, and hydrogen envelope mass. We estimate a mean asteroseismological mass of ⟨Msis⟩ = 0.635 ± 0.015 M⊙, excluding the candidate low or extremely low-mass objects. This value is in agreement with the mean mass using estimates from Gaia data, which is ⟨Mphot⟩ = 0.631 ± 0.040 M⊙, and with the mean mass of previously known ZZ Cetis of ⟨M*⟩ = 0.644 ± 0.034 M⊙. Our sample of 74 new bright ZZ Cetis increases the number of known ZZ Cetis by ~20 per cent.  &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2201.04158.pdf&quot;&gt;Read it complete here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="es">
+        <title>Pulsation in the white dwarf HE 1017-1352: confirmation of the class of hot DAV stars</title>
+        <published>2020-05-28T23:21:00-05:00</published>
+        <updated>2020-05-28T23:21:00-05:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://larissaamaral.github.io/LarissaAntunesAmaral/blog/2022/pulsation-in-the-white-dwarf-he-1017-1352-confirmation-of-the-class-of-hot-dav-stars/" type="text/html"/>
+        <id>https://larissaamaral.github.io/LarissaAntunesAmaral/blog/2022/pulsation-in-the-white-dwarf-he-1017-1352-confirmation-of-the-class-of-hot-dav-stars/</id>
+        
+        <summary type="html">&lt;p&gt;We report the detection of periodic variations on the Teff≃32000 K DA white dwarf star HE 1017-1352. We obtained time series photometry using the 4.1-m Southern Astrophysical Research telescope on three separate nights for a total of 16.8 h. From the frequency analysis, we found four periods of 605, 556, 508, and 869 s with significant amplitudes above the 1&#x2F;1000 false alarm probability detection limit. The detected modes are compatible with low harmonic degree g-mode non-radial pulsations with radial order higher than ∼9. This detection confirms the pulsation nature of HE 1017-1352 and thus the existence of the new pulsating class of hot DA white dwarf stars. In addition, we detect a long period of 1.52 h, compatible with a rotation period of DA white dwarf stars.    &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2006.01008.pdf&quot;&gt;Read it complete here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="es">
+        <title>Variability of Extremely-low mass white dwarf stars</title>
+        <published>2020-01-05T00:00:00-05:00</published>
+        <updated>2020-01-05T00:00:00-05:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://larissaamaral.github.io/LarissaAntunesAmaral/projects/glib-gtk-libro/" type="text/html"/>
+        <id>https://larissaamaral.github.io/LarissaAntunesAmaral/projects/glib-gtk-libro/</id>
+        
+        <summary type="html">&lt;p&gt;The aim of this project is to search for new pulsating Extremely-low mass white dwarf stars
+(ELMs) to explore the internal structure of WDs at cooler temperatures and much lower
+masses.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="es">
+        <title>Ground-based observation of ZZ Ceti stars and the discovery of four new variables</title>
+        <published>2019-09-10T23:21:00-05:00</published>
+        <updated>2019-09-10T23:21:00-05:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://larissaamaral.github.io/LarissaAntunesAmaral/blog/2022/ground-based-observation-of-zz-ceti-stars-and-the-discovery-of-four-new-variables/" type="text/html"/>
+        <id>https://larissaamaral.github.io/LarissaAntunesAmaral/blog/2022/ground-based-observation-of-zz-ceti-stars-and-the-discovery-of-four-new-variables/</id>
+        
+        <summary type="html">&lt;p&gt;We perform ground-based photometric observations of 22 DA white dwarf stars, 10 already known ZZ Cetis and 12 candidates with atmospheric parameters inside the classical instability strip. We report on the discovery of four new variable DA white dwarf stars. Two objects are near the middle of the instability strip, SDSS J082804.63+094956.6 and SDSS J094929.09+101918.8, and two red edge pulsators, GD 195 and L495-82. In addition, we classified four objects as possible variables, since evidence of variability was detected in the light curve, but the signal-to-noise ratio was not sufficient to establish a definite detection. Follow-up observations were performed for 10 known ZZ Ceti stars to verify period stability and search for new periodicities. For each confirmed variable, we perform a detailed asteroseismological fit and compare the structural parameters obtained from the best-fitting models with those obtained from spectroscopy and photometry from Gaia. Finally we present a study of the asteroseismological properties of a sample of 91 ZZ Ceti stars.   &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;1909.05555.pdf&quot;&gt;Read it complete here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="es">
+        <title>Search for new hot DAVs stars</title>
+        <published>2019-08-14T00:00:00-05:00</published>
+        <updated>2019-08-14T00:00:00-05:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://larissaamaral.github.io/LarissaAntunesAmaral/projects/ataraxia-zola/" type="text/html"/>
+        <id>https://larissaamaral.github.io/LarissaAntunesAmaral/projects/ataraxia-zola/</id>
+        
+        <summary type="html">&lt;p&gt;The aim of this project is to search for pulsating white dwarfs with hydrogen atmosphere at
+hotter temperatures, i.e. 30 000 K. The pulsation in those stars were proposed by Shibahashi
+(2005, 2007) and for the first time observed by Kurtz et al. 2008. Later on, Romero et al.
+2020 confirmed the existence of the new pulsating class of hot DA white dwarf stars.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="es">
+        <title> White dwarf and subdwarf stars in the Sloan Digital Sky Survey Data Release 14 </title>
+        <published>2019-04-01T23:21:00-05:00</published>
+        <updated>2019-04-01T23:21:00-05:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://larissaamaral.github.io/LarissaAntunesAmaral/blog/2023/que-hacer-despues-de-instalar-fedora-36/" type="text/html"/>
+        <id>https://larissaamaral.github.io/LarissaAntunesAmaral/blog/2023/que-hacer-despues-de-instalar-fedora-36/</id>
+        
+        <summary type="html">&lt;p&gt;`White dwarfs carry information on the structure and evolution of the Galaxy, especially through their luminosity function and initial-to-final mass relation. Very cool white dwarfs provide insight into the early ages of each population. Examining the spectra of all stars with 3σ proper motion in the Sloan Digital Sky Survey Data Release 14, we report the classification for 20 088 spectroscopically confirmed white dwarfs, plus 415 hot subdwarfs, and 311 cataclysmic variables. We obtain Teff, log g, and mass for hydrogen atmosphere white dwarf stars (DAs), warm helium atmosphere white dwarfs (DBs), hot subdwarfs (sdBs and sdOs), and estimate photometric Teff for white dwarf stars with continuum spectra (DCs). We find 15 793 sdAs and 447 dCs between the white dwarf cooling sequence and the main sequence, especially below T_eff∼eq 10 000 K; most are likely low-mass metal-poor main-sequence stars, but some could be the result of interacting binary evolution. &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;1904.01626.pdf&quot;&gt;Read it complete here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="es">
+        <title>A study of cool white dwarfs in the Sloan Digital Sky Survey Data Release 12 </title>
+        <published>2018-10-07T23:21:00-05:00</published>
+        <updated>2018-10-07T23:21:00-05:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://larissaamaral.github.io/LarissaAntunesAmaral/blog/2022/que-hacer-despues-de-instalar-fedora-36/" type="text/html"/>
+        <id>https://larissaamaral.github.io/LarissaAntunesAmaral/blog/2022/que-hacer-despues-de-instalar-fedora-36/</id>
+        
+        <summary type="html">&lt;p&gt;In this work, we study white dwarfs where 30 000 K &amp;gt; T_{eff} &amp;gt; 5000 K to compare the differences in the cooling of DAs and non-DAs and their formation channels. Our final sample is composed by nearly 13 000 DAs and more than 3 000 non-DAs that are simultaneously in the SDSS DR12 spectroscopic database and in the Gaia survey DR2. We present the mass distribution for DAs, DBs, and DCs, where it is found that the DCs are {∼ }0.15 M_⊙ more massive than DAs and DBs on average. Also, we present the photometric effective temperature distribution for each spectral type and the distance distribution for DAs and non-DAs. In addition, we study the ratio of non-DAs to DAs as a function of effective temperature. We find that this ratio is around ∼0.075 for effective temperature above {∼ }22 000 K and increases by a factor of 5 for effective temperature cooler than 15 000 K. If we assume that the increase of non-DA stars between {∼ }22 000 K to {∼ }15 000 K is due to convective dilution, 14 ± 3 per cent of the DAs should turn into non-DAs to explain the observed ratio. Our determination of the mass distribution of DCs also agrees with the theory that convective dilution and mixing are more likely to occur in massive white dwarfs, which supports evolutionary models and observations suggesting that higher mass white dwarfs have thinner hydrogen layers.  &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;1810.03554.pdf&quot;&gt;Read it complete here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="es">
+        <title>Evolutionary and asteroseimological study of variable white dwarf stars and its applications</title>
+        <published>2016-08-14T00:00:00-05:00</published>
+        <updated>2016-08-14T00:00:00-05:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://larissaamaral.github.io/LarissaAntunesAmaral/projects/asteroseimology/" type="text/html"/>
+        <id>https://larissaamaral.github.io/LarissaAntunesAmaral/projects/asteroseimology/</id>
+        
+        <summary type="html">&lt;p&gt;The aim of this project was to conduct a study of the evolutionary properties of white dwarf
+stars and DA-type pulsating white dwarf stars, called ZZ Ceti, based on a grid of detailed
+evolutionary models of these compact objects.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="es">
+        <title>New white dwarf and subdwarf stars in the Sloan Digital Sky Survey Data Release 12</title>
+        <published>2015-10-27T22:24:00-05:00</published>
+        <updated>2015-10-27T22:24:00-05:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://larissaamaral.github.io/LarissaAntunesAmaral/blog/2022/hola-mundo/" type="text/html"/>
+        <id>https://larissaamaral.github.io/LarissaAntunesAmaral/blog/2022/hola-mundo/</id>
+        
+        <summary type="html">&lt;p&gt;We report the discovery of 6576 new spectroscopically confirmed white dwarf and subdwarf stars in the Sloan Digital Sky Survey Data Release 12. We obtain Teff, log g and mass for hydrogen atmosphere white dwarf stars (DAs) and helium atmosphere white dwarf stars (DBs), estimate the calcium&#x2F;helium abundances for the white dwarf stars with metallic lines (DZs) and carbon&#x2F;helium for carbon-dominated spectra (DQs). We found one central star of a planetary nebula, one ultracompact helium binary (AM CVn), one oxygen line-dominated white dwarf, 15 hot DO&#x2F;PG1159s, 12 new cataclysmic variables, 36 magnetic white dwarf stars, 54 DQs, 115 helium-dominated white dwarfs, 148 white dwarf + main-sequence star binaries, 236 metal-polluted white dwarfs, 300 continuum spectra DCs, 230 hot subdwarfs, 2936 new hydrogen-dominated white dwarf stars, and 2675 cool hydrogen-dominated subdwarf stars. We calculate the mass distribution of all 5883 DAs with S&#x2F;N ≥ 15 in DR12, including the ones in DR7 and DR10, with an average S&#x2F;N = 26, corrected to the 3D convection scale, and also the distribution after correcting for the observed volume, using 1&#x2F;Vmax.  &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;watermark.silverchair.com&#x2F;stv2526.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1UwggNRBgkqhkiG9w0BBwagggNCMIIDPgIBADCCAzcGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMBpvvWN8UAe6EnT_IAgEQgIIDCPU5JxXlPZ7GCK6wdmpFvXoHKlju8Oyor3vrvnrMYqyr4wPQRttzgXfwFdIq-euvSoJL7P8ZhffnEkFXRgiB-YT90m2vlXrAVrvWbTbTETV_dzrjIEyGiB4GZM_H77HXDrfL9v4g65myIhx1kvQ1zBpNHlO6eG6i9zi5lvjrtilyK3xu9E9XfAzLG0dZdJixEyprenG1Id2hITPEi-FsP9iXQJ8mGqVD54_p9yoiHURwaO5xDTT8uUb_2aRmjm8c0HQn_Gtj1MiC_EOqrvCzueXcV-Dx6w-TyC4hb5U_F1XUbeePG9robaRL3djt8X_8iVSSC_SXP804GERsG_HLUb35KK4BQxSMHxBvID0LfBLGr-_BI-HaRdLo2AReDO0iCtkVAs_pMQN2s9VIP2fcIzZ5jXb1T41ul8GDVkRF0k-PpOogp-AQkbohaSG7CE4-XJv7w0_dCzbCfZIu-yzKANxGmkbQ_6KKk6iwnQLylhsooTVVejOzqY6bOyg5843dAPSvnV3o94vS5xt7wxSggLgQE_moW9oP0prR8uuoOswUg67Pr6-7PLY-QQSxEzCiISdi1jmqnEmSHoC1FXvz7YyYNSPVIG2_fbgn3ICqUpth-eI5505RZaPE5yXrYWxitWq2sm_wKUn_ZWE3VXohLS744G2l5oWvZiFWkcdjX-S6rWcnIPabNSsxQ9e9QFcsmb4ekt4SvRGQ_hfFU2A1F9ViJ6Uws14c-qC6BHixIegS6NncoCl9f8UMskz6QdVdZvFdJ32wtaL7PP2HY7VCX_MKKDoiV_mCgcMKRbvLK8DP5vw1OpJfIEd6Kni5bgHtwcwbKGbHq6ZfXjLxOcU_UnLQbysUPIvTf40WBxAfT51p1k6dut2zWB--EY0vNuLGrYFWH3B71zRsbz6oJW5V2M4QQvuoJ4kU7QeRRlFA6c54oJRxevMk5L_pIa0fA4CFiGZfqoQKccy-qaGyrQjP4c9NMWUz5hz9gMlVU7MbMK12c-64g_0WxQMUZ_YOHCrrIcyUbDKbWQBG&quot;&gt;Read it complete here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>
